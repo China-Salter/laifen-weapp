@@ -24,7 +24,7 @@
     "tcb-admin-node": "^1.6.0-beta.0",
     "tls": "0.0.1",
     "underscore": "^1.9.1",
-    "vant": "^1.6.16",
+    "vant": "^2.1.8",
     "vant-weapp": "^0.5.19",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1",
