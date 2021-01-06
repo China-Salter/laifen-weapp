@@ -14,7 +14,7 @@
     "buildH5": "node buildH5/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "fs": "0.0.1-security",
     "gcoord": "^0.2.3",
     "mpvue": "^2.0.0",
